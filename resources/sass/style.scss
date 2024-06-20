@@ -1,0 +1,20 @@
+// ******************************* colors ***************************
+
+$mainColor: darkblue;
+$secondColor: rgb(201, 255, 255);
+// $secondColor: rgb(123, 237, 237);
+
+// ******************************** fonts ***************************
+
+@import url("https://fonts.googleapis.com/css2?family=Anta&display=swap");
+$firstFont: 'Anta', sans-serif;
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap");
+$secondFont: 'Ubuntu', sans-serif;
+
+
+// ******************************** buttons ***************************
+
+@import 'button';
+
+
